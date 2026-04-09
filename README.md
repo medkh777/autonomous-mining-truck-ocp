@@ -331,7 +331,7 @@ d    = distance traveled between k and k+1
 ## 🔧 How to Run
 ```bash
 # 1. Clone the repository
-git clone https://github.com/mohamedkhlifate/autonomous-mining-truck-ocp
+git clone https://github.com/medkh777/autonomous-mining-truck-ocp****
 cd autonomous-mining-truck-ocp
 
 # 2. Build ROS2 workspace
@@ -417,7 +417,7 @@ Embedded Developer (AI & Robotics) @ OCP Group
 ENSA Tanger — Electronic & Automatic Systems Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Khlifate-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mohamedkhlifate)
-[![GitHub](https://img.shields.io/badge/GitHub-mohamedkhlifate-181717?style=flat&logo=github)](https://github.com/mohamedkhlifate)
+[![GitHub](https://img.shields.io/badge/GitHub-medkh777-181717?style=flat&logo=github)](https://github.com/medkh777)
 
 ---
 
